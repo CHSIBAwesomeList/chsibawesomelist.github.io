@@ -49,3 +49,12 @@ html, body {
 .navbar a.GitHub {
 	float: right;
 }
+
+/* Main */
+.main {
+	float: left;
+	width: 100%;
+	background-color: rgba(74, 145, 187, 1);
+	padding-left: 25px;
+}
+
