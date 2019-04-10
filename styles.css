@@ -1,3 +1,25 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	font-family: Times New Roman;
+	padding: 0px;
+	margin: 0px;
+	background: rgba(74, 145, 187, 1);
+	font-size: 115%;
+}
+html, body {
+	height: 100%;
+	margin: 0;
+}
+
+/* Header */
+.header {
+	padding: 50px;
+	text-align: center;
+	background: rgba(166, 208, 239, 1);
+}
+
 /* Navigation Bar */
 .navbar {
 	overflow: hidden;
