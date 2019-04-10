@@ -5,7 +5,7 @@ body {
 	font-family: Times New Roman;
 	padding: 0px;
 	margin: 0px;
-	background: rgba(0, 0, 0, 1);
+	background: rgba(255, 255, 255, 1);
 	font-size: 115%;
 }
 html, body {
@@ -17,7 +17,7 @@ html, body {
 .header {
 	padding: 50px;
 	text-align: center;
-	background: rgba(0, 0, 0, 1);
+	background: rgba(255, 255, 255, 1);
 }
 
 /* Navigation Bar */
@@ -53,7 +53,7 @@ html, body {
 .main {
 	float: left;
 	width: 100%;
-	background-color: rgba(0, 0, 0, 1);
+	background-color: rgba(255, 255, 255, 1);
 	padding-left: 25px;
 }
 
