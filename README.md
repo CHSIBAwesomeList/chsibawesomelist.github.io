@@ -13,3 +13,7 @@ Resource list:
 * Grade Gorilla (Physics & ?)
 * Kahn Academy?
 * Word Reference (Language)
+
+Noah - Mathematics, Sciences
+Kai - Arts, Social Studies
+Robert - Languages
