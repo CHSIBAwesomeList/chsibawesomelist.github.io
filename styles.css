@@ -87,7 +87,7 @@ html, body {
 .dropdown-content a:hover {
 	background-color: rgba(221, 221, 221, 1);
 }
-.show {
+.dropdown:hover .dropdown-content {
 	display: block;
 }
 
