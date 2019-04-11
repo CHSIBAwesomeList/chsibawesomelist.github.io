@@ -1,5 +1,7 @@
-# [chsibawesomelist.github.io](chsibawesomelist.github.io)
+# chsibawesomelist.github.io
 List of resources for all IB subjects at Cleveland High School.
+
+[Website](https://chsibawesomelist.github.io/)
 
 #007A33 Cleveland Green
 
