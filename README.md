@@ -15,5 +15,7 @@ Resource list:
 * Word Reference (Language)
 
 Noah - Mathematics, Sciences
+
 Kai - Arts, Social Studies
+
 Robert - Languages
