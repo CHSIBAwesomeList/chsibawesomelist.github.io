@@ -26,29 +26,71 @@ html, body {
 	background-color: rgba(0, 122, 51, 1);
 }
 .navbar .links {
-	width: 75%;
+	width: 90%;
 	margin: auto;
 	padding: 0 30px;
 }
 .navbar a {
 	float: left;
 	display: block;
+	font-size: 20px;
 	color: rgba(242, 242, 242, 1);
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
 }
 .navbar a.active {
-	background-color: rgba(1, 75, 96, 1);
+	background-color: rgba(0, 96, 38, 1);
 	color: white;
 }
-.navbar a:hover {
-	background-color: rgba(221, 221, 221, 1);
+.navbar a:hover, .dropdown:hover .dropbtn, .dropbtn:focus {
+	background-color: rgba(251, 225, 34, 1);
 	color: rgba(0, 0, 0, 1);
 }
 .navbar a.GitHub {
 	float: right;
 }	
+
+/* Dropdown Button */
+.dropdown {
+	float: left;
+	overflow: hidden;
+}
+.dropdown .dropbtn {
+	cursor: pointer;
+	font-size: 20px;
+	border: none;
+	outline: none;
+	color: white;
+	padding: 14px 16px;
+	background-color: inherit;
+	font-family: inherit;
+	margin: 0;
+}
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: rgba(249, 249, 249, 1);
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+	z-index: 1;
+}
+.dropdown-content a {
+	float: none;
+	font-size: 16px;
+	color: black;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	text-align: left;
+}
+.dropdown-content a:hover {
+	background-color: rgba(221, 221, 221, 1);
+}
+.show {
+	display: block;
+}
+
 /* Main */
 .main {
 	float: left;
