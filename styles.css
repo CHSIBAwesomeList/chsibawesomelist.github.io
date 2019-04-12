@@ -15,12 +15,15 @@ html, body {
 
 /* Header */
 .header {
-	padding: 0px 50px;
-	font-weight: bold;
+	height: 91px;
+}
+.header img {
+	display:inline-block;
+	float: left;
 }
 .header h1 {
-	display: inline;
-	white-space: nowrap;
+	display: inline-block;
+	font-weight: bold;
 }
 
 /* Navigation Bar */
