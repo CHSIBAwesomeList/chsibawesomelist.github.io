@@ -7,4 +7,4 @@ document.addEventListener("DOMContentLoaded", function() {
       document.getElementById('navinclude').innerHTML= this.responseText;
     };
     xhr.send();
-};
+});
