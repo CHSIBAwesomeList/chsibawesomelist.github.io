@@ -15,9 +15,8 @@ html, body {
 
 /* Header */
 .header {
-	padding: 50px;
-	text-align: center;
-	background: rgba(254, 254, 254, 1);
+	padding: 0px 50px;
+	font-weight: bold;
 }
 
 /* Navigation Bar */
