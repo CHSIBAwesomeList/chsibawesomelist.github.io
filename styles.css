@@ -18,6 +18,10 @@ html, body {
 	padding: 0px 50px;
 	font-weight: bold;
 }
+.header h1 {
+	display: inline;
+	white-space: nowrap;
+}
 
 /* Navigation Bar */
 .navbar {
