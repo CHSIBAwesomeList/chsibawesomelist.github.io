@@ -26,6 +26,11 @@ html, body {
 	font-weight: bold;
 }
 
+/* Resources */
+.resources {
+	margin: 0 15%
+}
+
 /* Navigation Bar */
 .navbar {
 	overflow: hidden;
