@@ -31,9 +31,9 @@ html, body {
 	margin: 0 15%;
 }
 
-.subjectbriefs a {
+.subjectbriefs p {
 	text-indent: 4em;
-	margin: 0 0 0 2em;
+	margin: 0 0 2em 0;
 }
 
 /* Resources */
