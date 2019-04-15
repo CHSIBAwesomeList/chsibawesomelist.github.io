@@ -34,7 +34,8 @@ html, body {
 /* Navigation Bar */
 .navbar {
 	overflow: hidden;
-	background-color: rgba(0, 122, 51, 1);
+	/*background-color: rgba(0, 122, 51, 1);*/
+	background-color: rgba(255, 0, 0, 1);
 	z-index: -999;
 }
 .navbar .links {
