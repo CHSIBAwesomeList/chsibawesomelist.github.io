@@ -35,6 +35,7 @@ html, body {
 .navbar {
 	overflow: hidden;
 	background-color: rgba(0, 122, 51, 1);
+	margin-bottom: 10px;
 }
 .navbar .links {
 	width: 90%;
