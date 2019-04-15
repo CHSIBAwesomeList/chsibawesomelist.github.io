@@ -26,10 +26,6 @@ html, body {
 	font-weight: bold;
 }
 
-p {
-	z-index: -10;
-}
-
 /* Resources */
 .resources {
 	margin: 0 15%
