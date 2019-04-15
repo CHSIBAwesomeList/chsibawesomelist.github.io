@@ -40,8 +40,6 @@ html, body {
 	width: 90%;
 	margin: auto;
 	padding: 0 30px;
-	z-index: 99;
-	background-color: red;
 }
 .navbar a {
 	float: left;
