@@ -31,6 +31,11 @@ html, body {
 	margin: 0 15%;
 }
 
+.subjectbriefs a {
+	text-indent: 4em;
+	margin: 0 0 0 2em;
+}
+
 /* Resources */
 .resources {
 	margin: 0 15%
