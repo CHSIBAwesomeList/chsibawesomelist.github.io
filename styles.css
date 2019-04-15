@@ -26,6 +26,11 @@ html, body {
 	font-weight: bold;
 }
 
+/* Subject Briefs */
+.subjectbriefs {
+	margin: 0 15%;
+}
+
 /* Resources */
 .resources {
 	margin: 0 15%
