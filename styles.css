@@ -73,7 +73,8 @@ html, body {
 	font-size: 20px;
 	border: none;
 	outline: none;
-	color: white;
+	/*color: white;*/
+	color: red;
 	padding: 14px 16px;
 	background-color: inherit;
 	font-family: inherit;
