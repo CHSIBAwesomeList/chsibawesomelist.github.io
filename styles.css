@@ -18,7 +18,7 @@ html, body {
 	height: 91px;
 }
 .header img {
-	display:inline-block;
+	display: inline-block;
 	float: left;
 }
 .header h1 {
@@ -42,7 +42,7 @@ html, body {
 
 /* Navigation Bar */
 .navbar {
-	overflow: hidden;
+	/* overflow: hidden; */
 	background-color: rgba(0, 122, 51, 1);
 	margin-bottom: 20px;
   	/* position: -webkit-sticky;
