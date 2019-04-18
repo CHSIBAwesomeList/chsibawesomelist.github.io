@@ -37,7 +37,7 @@ html, body {
 
 /* Resources */
 .resources {
-	margin: 0 15%
+	margin: 0 15%;
 }
 
 /* Navigation Bar */
@@ -48,6 +48,7 @@ html, body {
   	position: -webkit-sticky;
   	position: sticky;
 	top: 0;
+	z-index: 1;
 }
 .navbar .links {
 	width: 90%;
@@ -79,7 +80,7 @@ html, body {
 .dropdown {
 	float: left;
 	overflow: hidden;
-	z-index: 10;
+	z-index: 2;
 }
 .dropdown .dropbtn {
 	cursor: pointer;
@@ -113,7 +114,6 @@ html, body {
 }
 .dropdown:hover .dropdown-content {
 	display: block;
-	z-index: 11
 }
 
 /* Main */
