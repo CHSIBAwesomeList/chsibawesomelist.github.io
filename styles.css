@@ -172,3 +172,10 @@ html, body {
 		width: 100%;
 	}
 }
+/*Main Page welcome*/
+#intro {
+	padding: 0px 100px;
+}
+#intro h1 {
+	text-align: center;
+}
