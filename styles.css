@@ -14,7 +14,8 @@ html, body {
 }
 span {
 	width: 50px;
-	height: 1px;
+	height: 2px;
+	display: inline-block;
 }
 
 /* Header */
