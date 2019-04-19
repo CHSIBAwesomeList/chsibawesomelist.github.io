@@ -39,15 +39,18 @@ html, body {
 .resources {
 	margin: 0 15%;
 }
+.resources img {
+	text-align: center;
+}
+.entry {
+	
+}
 
 /* Navigation Bar */
 .navbar {
 	background-color: rgba(0, 122, 51, 1);
 	margin-bottom: 20px;
 	height: 50px;
-  	position: -webkit-sticky;
-  	position: sticky;
-	top: 0;
 	z-index: 1;
 }
 .navbar .links {
