@@ -42,12 +42,12 @@ html, body {
 
 /* Navigation Bar */
 .navbar {
-	/* overflow: hidden; */
 	background-color: rgba(0, 122, 51, 1);
 	margin-bottom: 20px;
-  	/* position: -webkit-sticky;
+	height: 50px;
+  	position: -webkit-sticky;
   	position: sticky;
-	top: 0; */
+	top: 0;
 	z-index: 1;
 }
 .navbar .links {
