@@ -186,3 +186,6 @@ span {
 #intro h1 {
 	text-align: center;
 }
+#intro img {
+	display: inline-block;
+}
