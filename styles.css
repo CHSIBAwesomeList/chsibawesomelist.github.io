@@ -189,4 +189,8 @@ span {
 #intro img {
 	float: left;
 	width: 50%;
+	margin-right: 10px;
+}
+#intro div p {
+	text-align: center;
 }
