@@ -200,4 +200,5 @@ span {
 #intro div p {
 	text-align: justify;
 	text-justify: auto;
+	text-align-last: center;
 }
