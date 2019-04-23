@@ -198,5 +198,6 @@ span {
 	color: #140;
 }
 #intro div p {
-	text-align: center;
+	text-align: justify;
+	text-justify: auto;
 }
