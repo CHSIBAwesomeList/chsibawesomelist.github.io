@@ -186,6 +186,9 @@ span {
 #intro h1 {
 	text-align: center;
 }
+#intro h2 {
+	text-align: center;
+}
 #intro img {
 	float: left;
 	width: 50%;
