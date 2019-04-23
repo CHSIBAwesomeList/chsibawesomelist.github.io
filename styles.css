@@ -48,6 +48,8 @@ span {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	height: 350;
+	width: 600;
 }
 .entry{
 	
