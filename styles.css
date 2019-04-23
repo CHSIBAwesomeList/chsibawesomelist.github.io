@@ -187,6 +187,6 @@ span {
 	text-align: center;
 }
 #intro img {
-	display: inline-block;
+	float: left;
 	width: 50%;
 }
