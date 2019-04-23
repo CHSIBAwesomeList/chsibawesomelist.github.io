@@ -191,6 +191,9 @@ span {
 	width: 50%;
 	margin-right: 10px;
 }
+#intro div {
+	font-color: #AAA;
+}
 #intro div p {
 	text-align: center;
 }
