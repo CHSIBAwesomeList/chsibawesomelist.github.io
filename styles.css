@@ -48,12 +48,12 @@ span {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	height: 350;
-	width: 600;
+	height: 350px;
+	width: 600px;
 }
 .entry img {
-	height: 350;
-	width: 600;
+	height: 350px;
+	width: 600px;
 }
 /*.setwidth {
 	width: 500px;
