@@ -55,6 +55,15 @@ span {
 	height: 350;
 	width: 600;
 }
+.setwidth {
+	width: 500px;
+	max-width: 100%;
+	overflow: hidden;
+}
+.setwidth img {
+	width: 500px;
+	max-width: 100%;
+}
 
 /* Navigation Bar */
 .navbar {
