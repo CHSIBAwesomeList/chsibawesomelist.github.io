@@ -13,6 +13,8 @@ Resource list:
 * Grade Gorilla (Physics & ?)
 * Kahn Academy?
 * Word Reference (Language)
+* Computer Science Wiki (CS)
+* IB CompSci Hub (CS)
 
 Noah - Mathematics, Sciences
 
