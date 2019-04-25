@@ -51,8 +51,9 @@ span {
 	height: 350;
 	width: 600;
 }
-.entry{
-	
+.entry img {
+	height: 350;
+	width: 600;
 }
 
 /* Navigation Bar */
