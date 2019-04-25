@@ -55,15 +55,16 @@ span {
 	height: 350;
 	width: 600;
 }
-.setwidth {
+/*.setwidth {
 	width: 500px;
 	max-width: 100%;
+	height: 200px;
 	overflow: hidden;
 }
 .setwidth img {
 	width: 500px;
 	max-width: 100%;
-}
+}*/
 
 /* Navigation Bar */
 .navbar {
