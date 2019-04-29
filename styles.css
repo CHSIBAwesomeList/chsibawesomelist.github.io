@@ -53,6 +53,9 @@ span {
 	width: 600px;
 	max-width: 70vw;
 }
+.entry {
+	border: solid;
+}
 
 /* Navigation Bar */
 .navbar {
