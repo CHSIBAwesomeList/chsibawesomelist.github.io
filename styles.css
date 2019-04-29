@@ -53,6 +53,12 @@ span {
 	width: 600px;
 	max-width: 70vw;
 }
+.resource iframe {
+	height: 350px;
+	max-height: 41vw;
+	width: 600px;
+	max-width: 70vw;
+}
 
 /* Navigation Bar */
 .navbar {
