@@ -7,6 +7,14 @@ List of resources for all IB subjects at Cleveland High School.
 
 #FBE122 Cleveland Yellow
 
+Contributors:
+* Jennifer Owens (CAS Supervisor)
+* Kai Roy (Programmer)
+* Robert Johnk (Programmer)
+* Noah Wager (Programmer)
+* Matt Staab (Chemistry)
+* Nancy Yang (Mandarin)
+
 Resource list:
 * Bio Ninja (Biology)
 * Spark Notes (English)
@@ -15,17 +23,14 @@ Resource list:
 * Word Reference (Language)
 * Computer Science Wiki (CS)
 * IB CompSci Hub (CS)
+* Ptable (Chemistry)
+* EndMemo (Chemisty, Physics, Mathematics, Biology, Computer Science)
+* MolView (Chemistry)
+* Wolfram|Alpha (Chemistry, Physics, Mathematics)
+* The Orbitron (Chemistry)
 
 Noah - Mathematics, Sciences
 
 Kai - Arts, Social Studies
 
 Robert - Languages, Main Page
-
-Contributors:
-* Kai Roy
-* Robert Johnk
-* Noah Wager
-* Matt Staab
-* Nancy Yang
-* Jennifer Owens
