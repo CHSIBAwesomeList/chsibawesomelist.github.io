@@ -21,3 +21,11 @@ Noah - Mathematics, Sciences
 Kai - Arts, Social Studies
 
 Robert - Languages, Main Page
+
+Contributors:
+* Kai Roy
+* Robert Johnk
+* Noah Wager
+* Matt Staab
+* Nancy Yang
+* Jennifer Owens
