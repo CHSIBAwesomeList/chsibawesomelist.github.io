@@ -1,4 +1,4 @@
-#Developer Notes
+# Developer Notes
 Noah - Mathematics, Sciences
 
 Kai - Arts, Social Studies
