@@ -3,10 +3,6 @@ List of resources for all IB subjects at Cleveland High School.
 
 [Website](https://chsibawesomelist.github.io/)
 
-#007A33 Cleveland Green
-
-#FBE122 Cleveland Yellow
-
 Contributors:
 * Jennifer Owens (CAS Supervisor)
 * Kai Roy (Programmer)
@@ -36,3 +32,7 @@ Noah - Mathematics, Sciences
 Kai - Arts, Social Studies
 
 Robert - Languages, Main Page
+
+#007A33 Cleveland Green
+
+#FBE122 Cleveland Yellow
