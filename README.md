@@ -27,13 +27,3 @@ Resource list:
 * MolView (Chemistry)
 * Wolfram|Alpha (Chemistry, Physics, Mathematics)
 * The Orbitron (Chemistry)
-
-Noah - Mathematics, Sciences
-
-Kai - Arts, Social Studies
-
-Robert - Languages, Main Page
-
-#007A33 Cleveland Green
-
-#FBE122 Cleveland Yellow
