@@ -24,6 +24,7 @@ Resource list:
 * Computer Science Wiki (CS)
 * IB CompSci Hub (CS)
 * W3Schools (CS)
+* IB CS Quick Links (CS)
 * Ptable (Chemistry)
 * EndMemo (Chemisty, Physics, Mathematics, Biology, CS)
 * MolView (Chemistry)
