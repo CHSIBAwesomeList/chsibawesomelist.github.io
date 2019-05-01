@@ -10,7 +10,7 @@ Contributors:
 * Noah Wager (Programmer)
 * Matt Staab (Chemistry)
 * Nancy Yang (Mandarin)
-* Linnea Rothi (Biology, All Subjects)
+* Linnea Rothi (Biology, Psychology)
 
 Resource list:
 * Bio Ninja (Biology)
