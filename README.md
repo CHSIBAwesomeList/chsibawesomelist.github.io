@@ -13,17 +13,26 @@ Contributors:
 * Linnea Rothi (Biology, Psychology)
 
 Resource list:
-* Bio Ninja (Biology)
-* Spark Notes (English)
-* Grade Gorilla (Physics & ?)
-* Kahn Academy?
+* **Arts**
+* **Diploma**
+* **Language**
+* ?Spark Notes (English)?
 * Word Reference (Language)
+* **Mathematics**
+* Wolfram|Alpha (Chemistry, Physics, Mathematics)
+* **Science**
+* Bio Ninja (Biology)
+* Ptable (Chemistry)
+* MolView (Chemistry)
+* The Orbitron (Chemistry)
 * Computer Science Wiki (CS)
 * IB CompSci Hub (CS)
 * W3Schools (CS)
 * IB CS Quick Links (CS)
-* Ptable (Chemistry)
+* Grade Gorilla (Physics)
 * EndMemo (Chemisty, Physics, Mathematics, Biology, CS)
-* MolView (Chemistry)
-* Wolfram|Alpha (Chemistry, Physics, Mathematics)
-* The Orbitron (Chemistry)
+* **Multe Subject**
+* Kahn Academy
+* IB Guide
+
+
