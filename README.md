@@ -3,7 +3,7 @@ List of resources for all IB subjects at Cleveland High School.
 
 [Website](https://chsibawesomelist.github.io/)
 
-Contributors:
+## Contributors:
 * Jennifer Owens (CAS Supervisor)
 * Kai Roy (Programmer)
 * Robert Johnk (Programmer)
@@ -12,7 +12,7 @@ Contributors:
 * Nancy Yang (Mandarin)
 * Linnea Rothi (Biology, Psychology)
 
-Resource list:
+## Resource list:
 * **Arts**
 * **Diploma**
 * **Language**
