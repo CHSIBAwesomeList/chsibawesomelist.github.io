@@ -13,14 +13,14 @@ List of resources for all IB subjects at Cleveland High School.
 * Linnea Rothi (Biology, Psychology)
 
 ## Resource list:
-* **Arts**
-* **Diploma**
-* **Language**
+#### Arts
+#### Diploma
+#### Language
 * ?Spark Notes (English)?
 * Word Reference (Language)
-* **Mathematics**
+#### Mathematics
 * Wolfram|Alpha (Chemistry, Physics, Mathematics)
-* **Science**
+#### Science
 * Bio Ninja (Biology)
 * Ptable (Chemistry)
 * MolView (Chemistry)
@@ -31,7 +31,7 @@ List of resources for all IB subjects at Cleveland High School.
 * IB CS Quick Links (CS)
 * Grade Gorilla (Physics)
 * EndMemo (Chemisty, Physics, Mathematics, Biology, CS)
-* **Multe Subject**
+#### Multi Departement
 * Kahn Academy
 * IB Guide
 
