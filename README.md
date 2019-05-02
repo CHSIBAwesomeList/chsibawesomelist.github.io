@@ -19,20 +19,20 @@ List of resources for all IB subjects at Cleveland High School.
 * ?Spark Notes (English)?
 * Word Reference (Language)
 #### Mathematics
-* Wolfram|Alpha (Chemistry, Physics, Mathematics)
 #### Science
 * Bio Ninja (Biology)
-* Ptable (Chemistry)
 * MolView (Chemistry)
+* Ptable (Chemistry
 * The Orbitron (Chemistry)
 * Computer Science Wiki (CS)
 * IB CompSci Hub (CS)
-* W3Schools (CS)
 * IB CS Quick Links (CS)
+* W3Schools (CS)
 * Grade Gorilla (Physics)
-* EndMemo (Chemisty, Physics, Mathematics, Biology, CS)
 #### Multi Departement
-* Kahn Academy
+* EndMemo (Chemisty, Physics, Mathematics, Biology, CS)
 * IB Guide
+* Kahn Academy
+* Wolfram|Alpha (Chemistry, Physics, Mathematics)
 
 
