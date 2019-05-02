@@ -6,8 +6,8 @@ List of resources for all IB subjects at Cleveland High School.
 ## Contributors:
 * Jennifer Owens (CAS Supervisor)
 * Kai Roy (Programmer)
-* Robert Johnk (Programmer)
 * Noah Wager (Programmer)
+* Robert Johnk (Programmer)
 * Matt Staab (Chemistry)
 * Nancy Yang (Mandarin)
 * Linnea Rothi (Biology, Psychology)
