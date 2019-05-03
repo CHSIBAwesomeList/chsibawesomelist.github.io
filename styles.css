@@ -197,15 +197,8 @@ span {
 #intro h2 {
 	text-align: center;
 }
-@media screen and (min-width: 780px) {
-	.mission {
-		float: right;
-		width: 46%;
-	}
-}
 #intro img {
-	width: 50%;
-	margin-right: 10px;
+	width: 100%;
 }
 #intro div {
 	color: #140;
@@ -215,4 +208,14 @@ span {
 	text-justify: auto;
 	text-align-last: center;
 	margin: 2%
+}
+@media screen and (min-width: 780px) {
+	.mission {
+		float: right;
+		width: 46%;
+	}
+	#intro img {
+		width: 50%;
+		margin-right: 10px;
+	}
 }
