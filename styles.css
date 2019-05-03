@@ -209,7 +209,7 @@ span {
 	text-align-last: center;
 	margin: 2%
 }
-@media screen and (min-width: 780px) {
+@media screen and (min-width: 920px) {
 	.mission {
 		float: right;
 		width: 46%;
