@@ -15,6 +15,12 @@ List of resources for all IB subjects at Cleveland High School.
 ## Resource list:
 #### Arts
 #### Diploma
+* ArXiv (Physics, Math, COmputer Science, Biology, Statistics)
+* Directory of Open Acces Journals (Science, Social Sciences)
+* Public Library of Science (Biology, Psychology)
+* Library of Congress (History, Politics, Primary Sources)
+* National Archives (History, Gov Docs, Primary Sources)
+* American Research Journals (General)
 #### Language
 * ?Spark Notes (English)?
 * Word Reference (Language)
