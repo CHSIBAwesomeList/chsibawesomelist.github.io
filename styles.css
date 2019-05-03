@@ -198,7 +198,7 @@ span {
 	text-align: center;
 }
 @media screen and (min-width: 780px) {
-	.mission p {
+	.mission {
 		float: right;
 	}
 }
