@@ -209,8 +209,9 @@ span {
 #intro div {
 	color: #140;
 }
-#intro div p {
+.mission p {
 	text-align: justify;
 	text-justify: auto;
 	text-align-last: center;
+	margin: 2%
 }
