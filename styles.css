@@ -198,8 +198,8 @@ span {
 	text-align: center;
 }
 @media screen and (min-width: 780px) {
-	#intro img {
-		float: left;
+	.mission p {
+		float: right;
 	}
 }
 #intro img {
