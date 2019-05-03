@@ -200,6 +200,7 @@ span {
 @media screen and (min-width: 780px) {
 	.mission {
 		float: right;
+		width: 50%;
 	}
 }
 #intro img {
