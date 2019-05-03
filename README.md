@@ -33,6 +33,7 @@ List of resources for all IB subjects at Cleveland High School.
 * Computer Science Wiki (CS)
 * IB CompSci Hub (CS)
 * IB CS Quick Links (CS)
+* The Awesome List (CS)
 * W3Schools (CS)
 * Grade Gorilla (Physics)
 #### Multi Departement
